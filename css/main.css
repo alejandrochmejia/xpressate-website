@@ -10,9 +10,18 @@ nav {
     margin-top: 2vmin;
 }
 
-nav img{
+#nav-imgs{
+    cursor: pointer;
+}
+
+#nav-imgs #logo{
     width: 10vmin;
     height: 10vmin;
+}
+
+#nav-imgs #name{
+    height: 10vmin;
+    width: 40vmin;
 }
 
 nav ul{
