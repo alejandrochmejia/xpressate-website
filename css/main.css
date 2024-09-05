@@ -44,6 +44,18 @@ nav ul li a:hover{
     background-color: rgb(226, 226, 226);
 }
 
+nav ul li:last-child a {
+    background-color: #5e91be;
+    color: white;
+    box-shadow: 0 0 3px #5e91be;
+    width: 18vmin;
+}
+
+nav ul li:last-child a:hover {
+    background-color: #3382c7;
+    box-shadow: 0 0 3px #3382c7;
+}
+
 main{
     height: 100dvh;
     box-sizing: border-box;
