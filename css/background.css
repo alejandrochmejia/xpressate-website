@@ -1,7 +1,7 @@
 #polygon{
     position: absolute;
     z-index: -10;
-    width: 100%;
+    width: 99dvw;
     height: 100dvh;
     background-color: #eff6fc;
     top: 0;

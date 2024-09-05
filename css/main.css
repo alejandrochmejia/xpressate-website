@@ -3,12 +3,14 @@ body{
     background-color: #f9f9fa;
     font-family: poppins;
     box-sizing: border-box;
+    overflow-X: hidden;
 }
 
 nav {
     display: flex;
     flex-flow: row nowrap;
     justify-content: space-around;
+    margin-top: 2vmin;
 }
 
 nav img{
@@ -22,8 +24,10 @@ nav ul{
     display: flex;
     flex-flow: row nowrap;
     gap: 3vmin;
+    height: 10vmin;
 }
 
 main{
     height: 100dvh;
+    box-sizing: border-box;
 }
