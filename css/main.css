@@ -37,6 +37,7 @@ nav ul li a{
     transition: background-color 0.2s linear;
     color: black;
     text-decoration: none;
+    box-shadow: 0 0 5px rgb(232, 232, 232);
 }
 
 nav ul li a:hover{
